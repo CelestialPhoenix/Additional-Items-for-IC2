@@ -1,0 +1,76 @@
+
+tile.contenttweaker.casingaluminium.name= Aluminium Machine Casing
+tile.contenttweaker.casingstainless.name=Stainless Steel Machine Casing
+tile.contenttweaker.casingsteel.name=Steel Machine Casing
+tile.contenttweaker.casingtitanium.name=Titanium Machine Casing
+tile.contenttweaker.casingtungstensteel.name=Tungstensteel Machine Casing
+
+item.contenttweaker.boardcrude.name= Crude Circuit Board
+item.contenttweaker.circuitgood.name= Good Circuit Board
+
+item.contenttweaker.itemcasingaluminium.name=Aluminium Item Casing
+item.contenttweaker.itemcasingchrome.name=Chrome Item Casing
+item.contenttweaker.itemcasingiridium.name=Iridium Item Casing
+
+item.contenttweaker.crushedbandediron.name=Crushed Banded Iron
+item.contenttweaker.crushedbrownlimonite.name=Crushed Brown Limonite
+item.contenttweaker.crushedchalcopyrite.name=Crushed Chalcopyrite
+item.contenttweaker.crushedcinnabar.name=Crushed Cinnabar
+item.contenttweaker.crushedcoal.name=Crushed Coal Ore
+item.contenttweaker.crushedcobaltite.name=Crushed Cobaltite
+item.contenttweaker.crushedcopper.name=Crushed Copper Ore
+item.contenttweaker.crusheddiamond.name=Crushed Diamond Ore
+item.contenttweaker.crushedgalena.name=Crushed Galena
+item.contenttweaker.crushedgarnierite.name=Crushed Garneirite
+item.contenttweaker.crushedgold.name=Crushed Gold Ore
+item.contenttweaker.crushedgreensapphire.name=Crushed Green Sapphire Ore
+item.contenttweaker.crushediron.name=Crushed Iron Ore
+item.contenttweaker.crushedlapis.name=Crushed Lapis Ore
+item.contenttweaker.crushedlazurite.name=Crushed Lazurite Ore
+item.contenttweaker.crushedlead.name=Crushed Lead Ore
+item.contenttweaker.crushedlignite.name=Crushed Lignite
+item.contenttweaker.crushedmalachite.name=Crushed Malachite
+item.contenttweaker.crushednickel.name=Crushed Nickel Ore
+item.contenttweaker.crushedpentlandite.name=Crushed Pentlandite
+item.contenttweaker.crushedpyrite.name=Crushed Pyrite
+item.contenttweaker.crushedpyrope.name=Crushed Pyrope
+item.contenttweaker.crushedquartz.name=Crushed Quartz Ore
+item.contenttweaker.crushedquartzite.name=Crushed Quartzite
+item.contenttweaker.crushedredstone.name=Crushed Redstone Ore
+item.contenttweaker.crushedruby.name=Crushed Ruby Ore
+item.contenttweaker.crushedsapphire.name=Crushed Sapphire Ore
+item.contenttweaker.crushedsilver.name=Crushed Silver Ore
+item.contenttweaker.crushedsphalerite.name=Crushed Sphalerite
+item.contenttweaker.crushedsulphur.name=Crushed Sulphur
+item.contenttweaker.crushedtin.name=Crushed Tin Ore
+item.contenttweaker.crushedyellowlimonite.name=Crushed Yellow Limonite
+item.contenttweaker.crushedzinc.name=Crushed Zinc Ore
+
+item.contenttweaker.platealuminium.name=Aluminium Plate
+item.contenttweaker.plateconstantan.name=Constantan Plate
+item.contenttweaker.platecrystal.name=Crystal Plate
+item.contenttweaker.platediamond.name=Diamond Plate
+item.contenttweaker.plateelectrum.name=Electrum Plate
+item.contenttweaker.plateenderium.name=Enderium Plate
+item.contenttweaker.plateinvar.name=Invar Plate
+item.contenttweaker.plateiridium.name=Iridium Plate
+item.contenttweaker.platelumium.name=Lumium Plate
+item.contenttweaker.platenickel.name=Nickel Plate
+item.contenttweaker.platemagicalloy.name=Magic Alloy Plate
+item.contenttweaker.platemithril.name=Mithril Plate
+item.contenttweaker.plateplatinum.name=Platinum Plate
+item.contenttweaker.platesignalum.name=Signalum Plate
+item.contenttweaker.platesilver.name=Silver Plate
+item.contenttweaker.platestainless.name=Stainless Plate
+item.contenttweaker.platetitanium.name=Titanium Plate
+item.contenttweaker.platetungstensteel.name=Tungstensteel Plate
+item.contenttweaker.plateuranium.name=Uranium Plate
+item.contenttweaker.platewood.name=Wooden Plate
+
+item.contenttweaker.wirealuminium.name=Aluminium Wire
+item.contenttweaker.wireconstantan.name=Constantan Wire
+item.contenttweaker.wireelectrum.name=Electrum Wire
+item.contenttweaker.wireredalloy.name=Red Alloy Wire
+item.contenttweaker.wiresignalum.name=Signalum Wire
+item.contenttweaker.wireinsulatedaluminium.name=Insulated Aluminium Wire
+item.contenttweaker.wireinsulatedsignalum.name=Insulated Signalum Wire
